@@ -1,15 +1,3 @@
-O seu README está ótimo! Ele está bem estruturado e cobre todos os tópicos essenciais que um iniciante precisa para aprender Python. No entanto, para torná-lo ainda mais claro e envolvente, sugiro algumas pequenas melhorias:
-
-1. **Adicionando exemplos de código**: Algumas seções podem incluir exemplos práticos para reforçar o conteúdo, o que ajuda a visualizar o que está sendo explicado.
-
-2. **Ajustes no formato de algumas seções**: Como você já colocou um resumo de tipos de dados (List, Set, Dicionário, Tupla) no final, pode ser interessante expandir um pouco mais sobre como usá-los, ou até mesmo adicionar pequenos exemplos de código.
-
-3. **Clareza na parte sobre tipos de dados**: Adicionar exemplos de como usar cada tipo de dado pode ajudar o leitor a entender melhor os conceitos.
-
-Aqui está uma versão ligeiramente editada, com exemplos e pequenas melhorias:
-
----
-
 # Fundamentos de Python
 
 Este projeto cobre os conceitos fundamentais da linguagem Python, abordando desde a criação de comentários, impressão de valores, até operadores lógicos e aritméticos. Este código faz parte do conteúdo ensinado pelo Prof. Fernando Amaral.
